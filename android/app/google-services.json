@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772506845373",
+    "project_id": "mydriver-13eae",
+    "storage_bucket": "mydriver-13eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772506845373:android:e46cdd87c0f61f616fb7d4",
+        "android_client_info": {
+          "package_name": "ru.taxihelp.mydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772506845373-dfp14jl0tbuuf6clg2c7gnjigg6u570e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.taxihelp.mydriver",
+            "certificate_hash": "c3bfecfa1ae5420060a67c2730a75e42ffb57875"
+          }
+        },
+        {
+          "client_id": "772506845373-l24np8fgoajm81hmvv6975qhfqvsjtfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosRHF2comdBjRSoY-cI8k6Eb8C0i75p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772506845373-l24np8fgoajm81hmvv6975qhfqvsjtfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
